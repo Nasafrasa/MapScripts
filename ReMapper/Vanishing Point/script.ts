@@ -8,7 +8,7 @@ let env: Environment;
 /* TO DO LIST:
 
 - make chroma lighting
-note animations(?)
+- note animations(?)
 - do more stuff with 1st drop (noodles)
 ?- make 2nd drop part 1 effects
 - change settings
